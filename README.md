@@ -1,4 +1,4 @@
-#Gerenciador de Tarefas com React e Tailwind
+# Gerenciador de Tarefas com React e Tailwind
 
 # React + Vite
 
